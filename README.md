@@ -1,4 +1,4 @@
-# Oi seu o Muca! 
+# Oi, eu sou o Muca! 
 
 <div align="center">
   <a href="https://github.com/murilomontino">
