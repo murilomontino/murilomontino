@@ -26,10 +26,10 @@
 </div>
 <hr />
 
-Ei 👋🏻 me chame de Murilo Montino. Sou um desenvolvedor Node.js, ReactJS e React Native.
+Ei 👋🏻, sou Murilo Montino. Sou um desenvolvedor full-stack Node.js, ReactJS e React Native.
 
 Sou um SWD especializado em entregar soluções Web e Mobile de alta qualidade (Sou um Desenvolvedor Full-Stack). Minha experiência nas tecnologias
-incluêm, mas não está limitada, React, React Native, Node.js, REST, NextJS e AdonisJS.
+incluêm, mas não está limitadas: React, React Native, Node.js, REST, NextJS e AdonisJS.
 
 Graduando em Ciência da Computação na Universidade Federal de Sergipe
 
